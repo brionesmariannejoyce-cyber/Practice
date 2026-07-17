@@ -1,7 +1,8 @@
 # Practice
 Testing
-
-<html>
+<!DOCTYPE html>
+<html lang=en>
+  <title>Why you should love cats?!</title>
   <head>
     <body>
      <main>
