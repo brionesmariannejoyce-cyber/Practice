@@ -1,8 +1,11 @@
 # Practice
 Testing
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
     <body>
      <main>
       <h1>WHY YOU SHOULD LOVE CATS!?</h1>
@@ -11,5 +14,5 @@ Testing
        <img src="https://github.com/brionesmariannejoyce-cyber/Practice/blob/main/cats.jpg?raw=true" />
        <p>Want more Facts about Cats?<a href=>Check out here<a/></p>
     </body>
-  </head>
+  
 </html>
