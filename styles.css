@@ -1,1 +1,5 @@
-
+input::placeholder{
+  position: absolute;
+  text-align: center;
+  color: red;
+}
