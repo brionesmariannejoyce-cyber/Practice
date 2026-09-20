@@ -1,3 +1,20 @@
+:Button{
+  border: none;
+  background-color: green;
+  cursor: pointer;
+  padding: 1em;
+}
+:Button::after{
+  content: "➡️";
+  position: absolute;
+  right: 5px;
+  bottom: 6px;
+  font-size: 1.125rem;
+   transition: transform 0.3s ease;
+  
+}
+
+
 input::placeholder{
   position: absolute;
   text-align: center;
