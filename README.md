@@ -7,12 +7,17 @@ Testing
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
     <body>
-     <main>
-      <h1>WHY YOU SHOULD LOVE CATS!?</h1>
+      <h1>PRACTICE</h1>
       <h2><strong>Chapter 1</strong></h2>
-       <p>Cats years ago were fierce and capable of taking themselves, but in the era of Egypt cats domesticated their selves to humans. Inside of the ration of humans there were living mice eating food somehow a cat manage to get in.</p>
-       <img src="https://github.com/brionesmariannejoyce-cyber/Practice/blob/main/cats.jpg?raw=true" />
-       <p>Want more Facts about Cats?<a href=>Check out here<a/></p>
+       <p>This will be my journaling for what I have been doing in this repo </p>
+      <section> 
+        <h2>September 20,2026</h2>
+        <dl>
+        <dt> Working with pseudo-elements and how do they work?"</dt>
+        <dd> So right now I </dd>
+        </dl>
+      </section>
+      
     </body>
   
 </html>
