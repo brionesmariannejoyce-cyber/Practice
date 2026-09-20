@@ -4,7 +4,7 @@
   cursor: pointer;
   padding: 1em;
 }
-.Button::after{
+.Button::after{ /*Fix and hover effect. The content is not seen better fix that.*/
   content: "➡️";
   position: absolute;
   right: 5px;
@@ -13,7 +13,7 @@
    transition: transform 0.3s ease;
   
 }
-
+/*add the font size and font family also add colors man this is kinda ugly its too boring center it to*/
 
 input::placeholder{
   position: absolute;
