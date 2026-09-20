@@ -1,10 +1,10 @@
-:Button{
+.Button{
   border: none;
   background-color: green;
   cursor: pointer;
   padding: 1em;
 }
-:Button::after{
+.Button::after{
   content: "➡️";
   position: absolute;
   right: 5px;
