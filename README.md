@@ -1,5 +1,5 @@
 # Practice
-Testing
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,7 +7,6 @@ Testing
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
     <body>
-      <h1>PRACTICE</h1>
       <h2><strong>Chapter 1</strong></h2>
        <p>This will be my journaling for what I have been doing in this repo </p>
       <section> 
